@@ -1,0 +1,5 @@
+node_modules/
+evohealth-frontend/node_modules/
+evohealth-backend/node_modules/
+build/
+dist/
